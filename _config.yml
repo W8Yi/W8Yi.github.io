@@ -12,7 +12,7 @@ title                    : "Weiyi Qin's blog"
 title_separator          : "-"
 name                     : &name "weiyi"
 description              : &description "PhD at Rutgers"
-url                      : https://w8yi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://w8yi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myface.jpg"
   name             : "weiyi"
-  pronouns         : 'he/him' # example: "she/her"  
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "PhD at Rutgers"
   location         : "New Jersey"
   employer         : "Rutgers University"
